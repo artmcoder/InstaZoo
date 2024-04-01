@@ -1,2 +1,2 @@
 # InstaZoo
-Draft course "Full-Stack Web Development with Java Spring and Angular"
+Instagram for animals
